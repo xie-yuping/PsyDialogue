@@ -25,7 +25,7 @@ st.markdown("""
         font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
     .stApp {
-        background: url("https://static1.squarespace.com/static/5e949a92e17d55230cd1d44f/t/679fd0d8b095d16e5a2f9955/1738526981767/Mountain01_Mac.png") no-repeat center center fixed;
+        background: url("https://raw.githubusercontent.com/xie-yuping/image-host/main/Mountain01_Mac.png") no-repeat center center fixed;
         background-size: cover;
         backdrop-filter: blur(6px);
         -webkit-backdrop-filter: blur(6px);
