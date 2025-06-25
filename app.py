@@ -5,7 +5,7 @@ import requests
 import csv
 from prompts import get_prompt
 
-API_KEY = ""  # 替换为你自己的 DeepSeek API Key
+API_KEY = st.secrets["api"]["deepseek_key"]  # 替换为你自己的 DeepSeek API Key
 
 st.set_page_config(page_title="PersonaGPT Demo", page_icon="🤖")
 
